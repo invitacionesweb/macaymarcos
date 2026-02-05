@@ -475,7 +475,7 @@ nav {
 }
 
 .accordion-item.active .accordion-content {
-    max-height: 200px;
+    max-height: 500px;
     padding: 15px;
 }
 
